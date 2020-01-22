@@ -4,7 +4,7 @@ const myNews = [
     id: 1,
     author: 'Саша Печкин',
     text: 'В четверг, четвертого числа...',
-    bigText: 'в четыре с четвертью часа четыре чёрненьких чумазеньких чертёнка чертили чёрными чернилами чертёж.'
+    bigText: 'В четыре с четвертью часа четыре чёрненьких чумазеньких чертёнка чертили чёрными чернилами чертёж.'
   },
   {
     id: 2,
@@ -14,15 +14,15 @@ const myNews = [
   },
   {
     id: 3,
-    author: 'Max Frontend',
-    text: 'Прошло 2 года с прошлых учебников, а $ так и не стоит 35',
-    bigText: 'А евро опять выше 70.'
+    author: 'Artem (@RAMP4) Frontend',
+    text: 'Junior Developer Summary https://awesome-portfolio.netlify.com/',
+    bigText: 'Start a career as a Junior Developer and grow to the next step. Year of software development experience as a web developer Javascript/HTML/CSS. I have experience of working in graphic editors like Photoshop and Figma. I have good analytical skills. I am a fast learner, good team worker.I am currently studying at university.I recently finished JavaScript/Front-end Course The Rolling Scopes School'
   },
   {
     id: 4,
     author: 'Гость',
-    text: 'Бесплатно. Без смс, про реакт, заходи - https://maxpfrontend.ru',
-    bigText: 'Еще есть группа VK, telegram и канал на youtube! Вся инфа на сайте, не реклама!'
+    text: 'RS School - это бесплатные курсы, проводимые сообществом разработчиков The Rolling Scopes с 2013 года',
+    bigText: 'В RS School может учиться каждый, независимо от возраста, профессиональной занятости и места жительства.'
   }
 ];
 
