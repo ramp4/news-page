@@ -35,7 +35,7 @@ class App extends React.Component {
 
   componentDidMount() {
     this.setState({ isLoading: true })
-    fetch('https://news-page.netlify.com/data/newsData.json')
+    fetch('/data/newsData.json')
       .then(response => {
         return response.json()
       })
