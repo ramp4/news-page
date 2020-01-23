@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "author": "Саша Печкин",
+    "text": "В четверг, четвертого числа...",
+    "bigText": "В четыре с четвертью часа четыре чёрненьких чумазеньких чертёнка чертили чёрными чернилами чертёж."
+  },
+  {
+    "id": 2,
+    "author": "Просто Вася",
+    "text": "Считаю, что $ должен стоить 35 рублей!",
+    "bigText": "А евро 42!"
+  },
+  {
+    "id": 3,
+    "author": "Artem (@RAMP4) Frontend",
+    "text": "Junior Developer Summary https:awesome-portfolio.netlify.com/",
+    "bigText": "Start a career as a Junior Developer and grow to the next step. Year of software development experience as a web developer Javascript/HTML/CSS. I have experience of working in graphic editors like Photoshop and Figma. I have good analytical skills. I am a fast learner, good team worker.I am currently studying at university.I recently finished JavaScript/Front-end Course The Rolling Scopes School"
+  },
+  {
+    "id": 4,
+    "author": "Гость",
+    "text": "RS School - это бесплатные курсы, проводимые сообществом разработчиков The Rolling Scopes с 2013 года",
+    "bigText": "В RS School может учиться каждый, независимо от возраста, профессиональной занятости и места жительства."
+  }
+]
