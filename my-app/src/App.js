@@ -51,7 +51,7 @@ class Article extends React.Component {
         {!visible && (
           <a
             onClick={this.handleReadMoreClck}
-            href="#"
+            href="#readme"
             className="news__readmore"
           >
             Подробнее
@@ -126,7 +126,7 @@ class Add extends React.Component {
   };
   handleChange = e => {
     const { id, value } = e.currentTarget;
-    this.setState({ [id]: e.currentTarget.value });
+    this.setState({ [id]: value });
   };
   handleCheckboxChange = e => {
     this.setState({ agree: e.currentTarget.checked });
@@ -139,7 +139,7 @@ class Add extends React.Component {
     return false;
   };
   render() {
-    const { name, text, bigText, agree } = this.state;
+    const { name, text, bigText } = this.state;
     return (
       <form className="add">
         <input
